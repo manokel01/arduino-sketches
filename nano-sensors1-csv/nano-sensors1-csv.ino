@@ -133,9 +133,9 @@ void loop() {
   }
 
   Serial.print(temperature);
-  Serial.print(",");
-  Serial.print(humidity);
-  Serial.print(",");
+  // Serial.print(",");
+  // Serial.print(humidity);
+  // Serial.print(",");
   // Serial.print(pressure);
   // Serial.print(",");
   // Serial.print(proximity);
@@ -144,7 +144,7 @@ void loop() {
   // Serial.print(",");
   // Serial.print(degreesY);
   // Serial.print(",");
-    Serial.print(light);
+    // Serial.print(light);
   // Serial.print(",");
   // Serial.print(r);
   // Serial.print(",");
