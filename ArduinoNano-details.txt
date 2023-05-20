@@ -1,0 +1,2 @@
+ {"path":"/dev/cu.usbmodem143201","manufacturer":"Arduino","serialNumber":"AF1B1A30D78CEA08","locationId":"14320000","vendorId":"2341","productId":"805a"}]
+
